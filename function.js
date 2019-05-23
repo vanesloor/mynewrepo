@@ -2,5 +2,5 @@ const multiplyByTwo = (number) => {
   return number * 2;
 }
 
-var num = 9;
-multiplyByTwo(num);
+var num2 = 9;
+multiplyByTwo(num2);
